@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Layout Fixo</title>
-  <link href="style.css" rel="stylesheet" />
+  <link href="fix_fluent_layout_original.css" rel="stylesheet" />
 </head>
   
 <body>
@@ -124,7 +124,9 @@
           </article>
         </div>
       
-      <aside class="content-sidebar">
+
+    </div>
+          <aside class="content-sidebar">
         <nav class="main-nav">
           <ul>
             <li><a href="#">Menu 1</a></li>
@@ -136,7 +138,6 @@
           </ul>
         </nav>
       </aside>
-    </div>
     
     <footer class="main-footer">
       Copyleft. Nenhum direito reservado, etc e tal.
